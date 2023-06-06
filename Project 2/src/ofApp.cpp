@@ -45,10 +45,10 @@ void ofApp::setup(){
     }
     
     // load sounds
-    if (!backgroundSound.load("sounds/space.wav")) {
-        cout << "Can't open space sound file" << endl;
-        ofExit();
-    }
+    //if (!backgroundSound.load("sounds/space.wav")) {
+    //    cout << "Can't open space sound file" << endl;
+    //    ofExit();
+    //}
     if (!thrusterSound.load("sounds/thruster.aiff")) {
         cout << "Can't open thruster sound file" << endl;
         ofExit();
@@ -61,7 +61,7 @@ void ofApp::setup(){
         cout << "Can't open collision sound file" << endl;
         ofExit();
     }
-    backgroundSound.setLoop(true);
+    //backgroundSound.setLoop(true);
     thrusterSound.setVolume(.6);
     raySound.setMultiPlay(true);
     raySound.setVolume(.1);
@@ -154,9 +154,9 @@ void ofApp::update() {
     }
     
     // play sounds
-    if (!backgroundSound.isPlaying()) {
-        backgroundSound.play();
-    }
+    //if (!backgroundSound.isPlaying()) {
+    //    backgroundSound.play();
+    //}
     if (bThrust && !thrusterSound.isPlaying()) {
         thrusterSound.play();
     } else if (!bThrust && thrusterSound.isPlaying()) {
