@@ -1,6 +1,6 @@
 # CS-134
 
-Archive repository for CS-134.
+Archive repository for CS-134 - Computer Game Design and Programming at SJSU in the Spring 2023 semester.
 
 ---
 
