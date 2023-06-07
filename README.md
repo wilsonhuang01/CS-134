@@ -4,10 +4,10 @@ Archive repository for CS-134 - Computer Game Design and Programming at SJSU in 
 
 ---
 
-[Project 1 Demo](https://www.youtube.com/watch?v=QrLeWIOneQA)
+Project 1 - Pursuit Game: [Demo](https://www.youtube.com/watch?v=QrLeWIOneQA)
 
-[Project 2 Demo](https://www.youtube.com/watch?v=ETus_5rleOU)
+Project 2 - Dynamic Pursuit Game: [Demo](https://www.youtube.com/watch?v=ETus_5rleOU)
 
-[Project 3 Demo](https://www.youtube.com/watch?v=e_rAVhuLjZ0)
+Project 3 - Spatial Subdivision: [Demo](https://www.youtube.com/watch?v=e_rAVhuLjZ0)
 
-[Final Project Trailer](https://www.youtube.com/watch?v=7o3fLLFuY3U)
+Final Project - 3D Landing Simulation Game: [Trailer](https://www.youtube.com/watch?v=7o3fLLFuY3U)
